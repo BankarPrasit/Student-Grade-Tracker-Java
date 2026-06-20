@@ -39,6 +39,23 @@ java StudentGradeTracker
 4. Search Student
 5. Exit
 
+## Screenshots
+
+### Main Menu
+![Main Menu](menu.png)
+
+### Add Student
+![Add Student](add-student.png)
+
+### Summary Report
+![Summary Report](summary-report.png)
+
+### Class Statistics
+![Class Statistics](class-statistics.png)
+
+### Search Student
+![Search Student](search-student.png)
+
 ## Author
 
 Prasit Bankar
